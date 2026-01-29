@@ -1,0 +1,14 @@
+{
+  "$schema": "https://fresh-editor.dev/schemas/package.schema.json",
+  "name": "monokai",
+  "version": "1.0.0",
+  "description": "monokai theme",
+  "type": "theme",
+  "author": "jian.gao",
+  "license": "MIT",
+  "repository": "https://github.com/gaojian80422/fresh-theme",
+  "keywords": ["theme", "jiangao", "monokai"],
+  "fresh": {
+    "min_version": "0.1.0"
+  }
+}
